@@ -5,7 +5,7 @@ permalink: /proyectos/agricola-el-mañana
 img_path: /img/proyectos/Proyectos_2019/Agricola_El_Mañana.jpg
 ubicacion: Teno, Maule, Chile
 mandante: Agrícola El Mañana S.A
-potencia_total: 116
+potencia_total: 116 kW
 ---
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
