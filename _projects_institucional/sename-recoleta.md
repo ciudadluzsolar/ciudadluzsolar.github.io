@@ -1,6 +1,6 @@
 ---
 layout: proyecto
-title: HOGAR SAN PEDRO DE ARMENGOL
+title: HOGAR S. P. DE ARMENGOL
 permalink: /proyectos/sename-recoleta/
 img_path: /img/proyectos/sename-recoleta/sename-recoleta-1.jpg
 ubicacion: Recoleta, Santiago, Chile
