@@ -3,7 +3,7 @@ layout: proyecto
 title: CESFAM PEÑAFLOR
 permalink: /proyectos/cesfam-penaflor-92-kw/
 img_path: /img/proyectos/cesfam-penaflor-92-kw/cesfam-penaflor-1.jpg
-ubicacion: Peñaflor, Santiago, Chile
+ubicacion: Peñaflor, Santiago, Chile.
 mandante: Municipalidad de Peñaflor
 potencia_total: 92 kW
 ---
