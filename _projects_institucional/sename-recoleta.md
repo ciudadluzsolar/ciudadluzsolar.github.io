@@ -31,4 +31,4 @@ potencia_total: 15 kW
     <span class="sr-only">Siguiente</span>
   </a>
 </div>
-HOGAR SAN PEDRO ARMENGOL, 15 kW
+HOGAR SAN PEDRO ARMENGOL, 15 kW 
