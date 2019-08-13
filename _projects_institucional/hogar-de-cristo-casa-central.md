@@ -1,6 +1,6 @@
 ---
 layout: proyecto
-title: HOGAR DE CRISTO 
+title: HOGAR DE CRISTO CASA CENTRAL
 permalink: /proyectos/hogar-de-cristo-casa-central/
 img_path: /img/proyectos/hogar-de-cristo-casa-central/hdc-1.png
 ubicacion: Estación Central, Santiago, Chile
