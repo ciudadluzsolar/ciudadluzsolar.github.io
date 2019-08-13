@@ -21,14 +21,6 @@ potencia_total: 97 kW
     <div class="item active">
       <img src="/img/proyectos/Proyectos_2019/Unifruti_El_Canelo.jpg">
     </div>
-
-    <div class="item">
-      <img src="/img/proyectos/pan-de-azucar-refrigeracion-solar/pandeazucar-2.jpg">
-    </div>
-
-    <div class="item">
-      <img src="/img/proyectos/pan-de-azucar-refrigeracion-solar/pandeazucar-3.jpg">
-    </div>
   </div>
 
   <!-- Left and right controls -->
