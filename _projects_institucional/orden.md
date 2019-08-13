@@ -1,6 +1,5 @@
 ---
 layout: proyecto
-title: COLEGIO LOS ALERCES
 permalink: /proyectos/colegio-los-alerces
 img_path: /img/proyectos/Proyectos_2019/ORDEN.jpg
 
