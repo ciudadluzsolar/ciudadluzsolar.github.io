@@ -1,6 +1,6 @@
 ---
 layout: proyecto
-title: INSTITUTO SANTA TERESA
+title: INS. SANTA TERESA
 permalink: /proyectos/instituto-santa-teresa
 img_path: /img/proyectos/Proyectos_2019/Instituto_Santa_Teresa.jpg
 ubicacion: Graneros, Cachapoal, Chile
