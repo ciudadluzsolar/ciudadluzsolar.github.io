@@ -1,6 +1,6 @@
 ---
 layout: proyecto
-title: COLEGIO PREESCOLAR CANTAGALLO
+title: C. PREESCOLAR CANTAGALLO
 permalink: /proyectos/colegio-preescolar-cantagallo
 img_path: /img/proyectos/Proyectos_2019/Colegio_preescolar_Cantagallo.jpg
 ubicacion: Las Condes, Santiago, Chile
