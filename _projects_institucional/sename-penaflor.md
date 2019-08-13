@@ -3,7 +3,7 @@ layout: proyecto
 title: ALDEA MIS AMIGOS
 permalink: /proyectos/sename-penaflor/
 img_path: /img/proyectos/sename-penaflor/sename-penaflor-1.jpg
-ubicacion: Peñaflor, Talagante, Chile
+ubicacion: Peñaflor, Talagante, Chile.
 mandante: Sename
 potencia_total: 5 kW
 ---
