@@ -1,10 +1,10 @@
 ---
 layout: proyecto
 title: COLEGIO MAIMONIDES
-permalink: /proyectos/colegio-los-alerces
+permalink: /proyectos/colegio-maimonides
 img_path: /img/proyectos/Proyectos_2019/Colegio_Maimonides.jpg
 ubicacion: Lo Barnechea, Santiago, Chile
-mandante: MAIMONIDES SCHOOL S.A
+mandante: Maimonides School S.A
 potencia_total: 110 kW
 ---
 
