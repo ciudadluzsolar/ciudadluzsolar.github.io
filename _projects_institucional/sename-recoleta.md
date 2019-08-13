@@ -2,7 +2,7 @@
 layout: proyecto
 title: HOGAR SAN PEDRO
 permalink: /proyectos/sename-recoleta/
-img_path: /img/proyectos/sename-recoleta/sename-recoleta-1.jpg
+img_path: /img/proyectos/sename-recoleta/sename-recoleta_2.jpg
 ubicacion: Recoleta, Santiago, Chile
 mandante: Sename
 potencia_total: 15 kW
@@ -17,7 +17,7 @@ potencia_total: 15 kW
   <!-- Imagenes de Los Proyectos -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="/img/proyectos/sename-recoleta/sename-recoleta-1.jpg">
+      <img src="/img/proyectos/sename-recoleta/sename-recoleta_2.jpg">
     </div>
   </div>
 
