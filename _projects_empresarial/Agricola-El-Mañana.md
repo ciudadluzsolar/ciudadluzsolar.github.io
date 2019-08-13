@@ -33,3 +33,4 @@ potencia_total: 116 kW
     <span class="sr-only">Siguiente</span>
   </a>
 </div>
+AGRÍCOLA EL MAÑANA, 116 kW
