@@ -1,6 +1,6 @@
 ---
 layout: proyecto
-title: HOGAR S. P. DE ARMENGOL
+title: HOGAR SP ARMENGOL
 permalink: /proyectos/sename-recoleta/
 img_path: /img/proyectos/sename-recoleta/sename-recoleta-1.jpg
 ubicacion: Recoleta, Santiago, Chile
@@ -31,3 +31,4 @@ potencia_total: 15 kW
     <span class="sr-only">Siguiente</span>
   </a>
 </div>
+HOGAR SAN PEDRO ARMENGOL, 15 kW
