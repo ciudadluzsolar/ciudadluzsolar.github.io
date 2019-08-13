@@ -1,6 +1,6 @@
 ---
 layout: proyecto
-title: MIN. DE DESARROLLO SOCIAL
+title: MIN. DESARROLLO SOCIAL
 permalink: /proyectos/ministerio-desarrollo-social/
 img_path: /img/proyectos/ministerio-desarrollo-social/mds-1.jpg
 ubicacion: Santiago Centro, Santiago, Chile
@@ -31,3 +31,4 @@ potencia_total: 81 kW
     <span class="sr-only">Siguiente</span>
   </a>
 </div>
+MINISTERIO DE DESARROLLO SOCIAL, 81 kW
