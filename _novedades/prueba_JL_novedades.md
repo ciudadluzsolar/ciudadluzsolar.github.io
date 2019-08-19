@@ -5,6 +5,7 @@ permalink: /ciudad-luz-se-adjudica-licitacion-ptsp/
 img_path: /img/proyectos/logo.jpg
 date: 2019-8-19
 date_text: Agosto 2019
-excerpt: ---
+excerpt: C Luz
+---
 
 Ciudad Luz, Agosto 2019
