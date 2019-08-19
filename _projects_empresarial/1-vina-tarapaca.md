@@ -6,7 +6,7 @@ img_path: /img/proyectos/Proyectos_2019/Vina_Tarapaca.jpg
 ubicacion: Isla de Maipo, Región Metropolitana, Chile
 mandante: Viña San Pedro de Tarapacá
 potencia_total: 338 kW
-2019
+year: 2019
 ---
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
