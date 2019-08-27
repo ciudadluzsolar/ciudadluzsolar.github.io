@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Ciudad Luz y SEDUC firman contrato 
+title: •	VSPT Wine Group instalará 13 plantas fotovoltaicas
 permalink: /fondo-corfo/
 img_path: /img/novedades/Vina_Tarapaca.jpg
 date: 2018-8-1
