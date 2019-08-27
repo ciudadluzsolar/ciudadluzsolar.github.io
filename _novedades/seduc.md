@@ -2,7 +2,7 @@
 layout: news
 title: Ciudad Luz y SEDUC firman contrato 
 permalink: /fondo-corfo/
-img_path: /img/novedades/achee-logo.jpg
+img_path: /img/novedades/Colegio_preescolar_Cantagallo.jpg
 date: 2018-3-1
 date_text: Marzo 2018
 excerpt: Ciudad Luz y la corporación educacional SEDUC firman un contrato para la instalación de plantas fotovoltaicas en 5 establecimientos educacionales...
