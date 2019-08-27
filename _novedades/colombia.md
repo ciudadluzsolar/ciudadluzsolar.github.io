@@ -1,9 +1,10 @@
 ---
 layout: news
-title: Ciudad Luz e Ilustre Municipalidad de Santiago ganan concurso de la Agencia de Sostenibilidad Energética
-permalink: /beaucheff/
-img_path: /img/novedades/beaucheff.jpeg
+title: Invitación internacional: Ciudad Luz explora el mercado colombiano 
+permalink: /colombia/
+img_path: /img/novedades/colombia.jpeg
 date: 2019-1-10
 date_text: Enero 2019
-excerpt: En el marco del segundo concurso de “Implementación de Estrategias Energéticas Locales”, desarrollado por la Agencia de Sostenibilidad Energética (ASE), Ciudad Luz, en conjunto con la Ilustre Municipalidad de Santiago...
+excerpt: Como empresa líder en materia energética sostenible en Chile, Ciudad Luz fue expositor en el Primer Seminario de Generación Distribuida de Colombia, organizado por la asociación de Energías Renovables de ese país...
 ---
+Como empresa líder en materia energética sostenible en Chile, Ciudad Luz fue expositor en el Primer Seminario de Generación Distribuida de Colombia, organizado por la asociación de Energías Renovables de ese país. En ese contexto, parte del equipo tuvo la oportunidad de interactuar con diferentes personas y compañías, e interiorizarse del camino que seguirá el auto-consumo energético en el mercado colombiano. Es el primer paso para la internacionalización de Ciudad Luz y una oportunidad para explorar nuevos horizontes. 
