@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Invitación internacional: Ciudad Luz explora el mercado colombiano 
+title: Invitacion internacional: Ciudad Luz explora el mercado colombiano 
 permalink: /colombia-seminario/
 img_path: /img/novedades/corfo.jpg
 date: 2019-7-1
