@@ -2,7 +2,7 @@
 layout: news
 title: Invitación internacional: Ciudad Luz explora el mercado colombiano 
 permalink: /colombia-seminario/
-img_path: /img/novedades/colombia.jpeg
+img_path: /img/novedades/corfo.jpg
 date: 2019-7-1
 date_text: Julio 2019
 excerpt: Como empresa líder en materia energética sostenible en Chile, Ciudad Luz fue expositor en el Primer Seminario de Generación Distribuida de Colombia...
