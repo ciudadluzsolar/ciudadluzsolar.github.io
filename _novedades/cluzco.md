@@ -1,6 +1,6 @@
 ---
 layout: news
-title: Ciudad Luz explora el mercado colombiano 
+title: Invitación internacional, Ciudad Luz explora el mercado colombiano 
 permalink: /cluz-co/
 img_path: /img/novedades/jose-co.jpg
 date: 2019-7-1
