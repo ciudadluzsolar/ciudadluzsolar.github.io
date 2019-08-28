@@ -2,7 +2,7 @@
 layout: news
 title: Ciudad Luz explora el mercado colombiano 
 permalink: /cluz-co/
-img_path: /img/novedades/Vina_Tarapaca.jpg
+img_path: /img/novedades/jose-co.jpg
 date: 2018-8-1
 date_text: Agosto 2018
 excerpt: Como empresa líder en materia energética sostenible en Chile, Ciudad Luz fue expositor en el Primer Seminario de Generación Distribuida de Colombia...
