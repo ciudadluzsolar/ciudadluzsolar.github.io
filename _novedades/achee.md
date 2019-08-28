@@ -1,7 +1,7 @@
 ---
 layout: news
-title: Ciudad Luz gana fondo CORFO de $200 MM para innovación
-permalink: /fondo-corfo/
+title: Ciudad Luz se adjudica fondo de concurso de la ACHEE 
+permalink: /achee-cluz/
 img_path: /img/novedades/achee-logo.jpg
 date: 2018-1-10
 date_text: Enero 2018
